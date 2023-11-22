@@ -10,7 +10,7 @@ I’m a third year Ph.D student at Tsinghua university supervised by  <a href="h
 
 - **3D Computer Vision:** rendering(Nerf,3D gaussian) and reconstruction, multi-human motion generation
 - **Geometric (3D) shape analysis :** shape matching, point cloud registration
-  **I am looking for an internship, feel free to contact me!**
+- **I am looking for an internship, feel free to contact me!**
 
 ## News
 
