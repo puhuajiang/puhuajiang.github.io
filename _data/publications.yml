@@ -1,22 +1,40 @@
 main:
+  - title: Non-Rigid Shape Registration via Deep Functional Maps Prior
+    authors: <strong>Puhua Jiang</strong>,Mingze Sun, Ruqi Huang
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2311.04494.pdf
+    code: https://github.com/rqhuang88/DFR
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/DFR.png
+    notes: Accepted
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Spatially and Spectrally Consistent Deep Functional Maps
+    authors: Mingze Sun, Shiwei Mao, <strong>Puhua Jiang</strong>, Maks Ovsjanikov, Ruqi Huang
+    conference_short: ICCV
+    conference: Conference on International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
+    pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Sun_Spatially_and_Spectrally_Consistent_Deep_Functional_Maps_ICCV_2023_paper.pdf
+    code: https://github.com/rqhuang88/Spatially-and-Spectrally-Consistent-Deep-Functional-Maps
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/SSCDFMAP.png
+    # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: Neural Intrinsic Embedding for Non-rigid Point Cloud Matching
+    authors: <strong>Puhua Jiang</strong>, Mingze Sun, Ruqi Huang
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
+    pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Neural_Intrinsic_Embedding_for_Non-Rigid_Point_Cloud_Matching_CVPR_2023_paper.pdf
+    code: https://github.com/TBSI2f/Neural-Intrinsic-Embedding
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/NIE.png
+    # notes: Early Accept
+
+  - title: Group interaction field for learning and explaining pedestrian anticipation
+    authors: Xueyang Wang†, Xuecheng Chen†,<strong>Puhua Jiang</strong>†, Haozhe Lin†, Xiaoyun Yuan, Mengqi Ji, Yuchen Guo, Ruqi Huang, Lu Fang
+    conference_short: ENG
+    conference: ENGINEERING, 2023.
+    pdf: https://www.sciencedirect.com/science/article/pii/S209580992300303X
+    code: https://github.com/THU-luvision/GIFNet
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/GIF.png
+    # notes: Early Accept
