@@ -11,6 +11,13 @@ I’m a second year Ph.D student at Tsinghua university supervised by  <a href="
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
+
+
+
+
+
+
+
 ## News
 
 
@@ -22,7 +29,18 @@ I’m a second year Ph.D student at Tsinghua university supervised by  <a href="
 - **[Mar. 2021]**  Serving as the sutdent organizer in  <a href="https://www.gigavision.cn/">Gigavision challange</a>.
 - **[Jul. 2020]** Starting an internship as a computer vision R&amp;D engineer at Baidu.
 
-
+## Education
+<ul>
+    <li>
+        <div style="float:left; text-align:left">Ph.D. in Tsinghua university</div> <div style="float:right; text-align:right">2021-Present</div>
+    </li>
+    <li>
+        <div style="float:left; text-align:left">M.S. in ECE, University of Michigan, Ann Arbor</div> <div style="float:right; text-align:right">2019-2021</div>
+    </li>
+    <li>
+        <div style="float:left; text-align:left">B.S. in Automation, Huazhong University of Science and Technology</div> <div style="float:right; text-align:right">2015-2019</div>
+    </li>
+</ul>
 
 
 {% include_relative _includes/publications.md %}
