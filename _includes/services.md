@@ -1,6 +1,6 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Teaching assistent</h4>
+<h4 style="margin:0 10px 0;">Teaching assistant</h4>
 
 <ul>
     <li>
