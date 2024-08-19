@@ -8,9 +8,9 @@ I’m a third year Ph.D student at Tsinghua university supervised by  <a href="h
 
 ## Research Interests
 
-- **3D Computer Vision:** rendering(Nerf,3D gaussian) and reconstruction, multi-human motion generation
+- **3D Computer Vision:** rendering(Nerf,3D gaussian) and reconstruction, 3D generation
 - **Geometric (3D) shape analysis :** shape matching, point cloud registration
-- **I am looking for an internship, feel free to contact me!**
+<!-- - **I am looking for an internship, feel free to contact me!** -->
 
 ## News
 - **[Jul. 2024]** One paper was accepted by SIGGRAPH 2024.
