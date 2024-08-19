@@ -13,9 +13,8 @@ I’m a third year Ph.D student at Tsinghua university supervised by  <a href="h
 - **I am looking for an internship, feel free to contact me!**
 
 ## News
-
-
-- **[Sep. 2023]** One paper was conditionally accepted by NeurIPS 2023.
+- **[Jul. 2024]** One paper was accepted by SIGGRAPH 2024.
+- **[Sep. 2023]** One <a href="https://github.com/rqhuang88/DFR">paper</a> was accepted by NeurIPS 2023.
 - **[Jul. 2023]** One <a href="https://github.com/rqhuang88/Spatially-and-Spectrally-Consistent-Deep-Functional-Maps">paper</a> is accepted by ICCV 2023.
 - **[May. 2023]** One <a href="https://github.com/THU-luvision/GIFNet">paper</a> is accepted by ENGINEERING.
 - **[Feb. 2023]** One <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Neural_Intrinsic_Embedding_for_Non-Rigid_Point_Cloud_Matching_CVPR_2023_paper.pdf">paper</a> is accepted by CVPR 2023.
