@@ -1,14 +1,25 @@
 main:
 
-  - title: Unsupervised Non-Rigid Point Cloud Matching through Large Vision Models
+  - title: DV-Matcher Deformation-based Non-Rigid Point Cloud Matching Guided by Pre-trained Visual Features
     authors: Zhangquan Chen†,<strong>Puhua Jiang</strong>†, Ruqi Huang
-    conference_short: Arxiv
-    conference: Arxiv.
+    conference_short: CVPR
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2408.08568
-    # code: https://github.com/rqhuang88/DFR
+    code: https://github.com/rqhuang88/DV-Matcher
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/nipst.png
-    # notes: Accepted
+    notes: Accepted
+
+
+  - title: DRiVE Diffusion-based Rigging Empowers Generation of Versatile and Expressive Characters
+    authors: Mingze Sun, Junhao Chen, Junting Dong, Yurun Chen, Xinyu Jiang, Shiwei Mao, <strong>Puhua Jiang</strong>, Jingbo Wang, Bo Dai, Ruqi Huang
+    conference_short: CVPR
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2411.17423
+    code: https://driveavatar.github.io/
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/drive.png
+    notes: Accepted
 
 
   - title: SRIF Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation
@@ -19,7 +30,7 @@ main:
     # code: https://github.com/rqhuang88/DFR
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teasersig.png
-    notes: Accepted
+    # notes: Accepted
 
   - title: Non-Rigid Shape Registration via Deep Functional Maps Prior
     authors: <strong>Puhua Jiang</strong>,Mingze Sun, Ruqi Huang
