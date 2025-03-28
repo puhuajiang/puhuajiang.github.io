@@ -13,7 +13,7 @@ I’m a third year Ph.D student at Tsinghua university supervised by  <a href="h
 <!-- - **I am looking for an internship, feel free to contact me!** -->
 
 ## News
-- **[Feb. 2025]** One paper was accepted by CVPR 2025.
+- **[Feb. 2025]** Two papers was accepted by CVPR 2025.
 - **[Jul. 2024]** One paper was accepted by SIGGRAPH 2024.
 - **[Sep. 2023]** One <a href="https://github.com/rqhuang88/DFR">paper</a> was accepted by NeurIPS 2023.
 - **[Jul. 2023]** One <a href="https://github.com/rqhuang88/Spatially-and-Spectrally-Consistent-Deep-Functional-Maps">paper</a> is accepted by ICCV 2023.
