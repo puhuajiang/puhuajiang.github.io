@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I’m a third year Ph.D student at Tsinghua university supervised by  <a href="https://rqhuang88.github.io/" class="pubbutton">Prof. Ruqi Huang</a>. My research fields are 3D computer vision and graphics. I obtained my M.S. degree on Computer Vision at University of Michigan.  During COVID-19, I had interships as research assistant in Tsinghua university  supervised by   <a href="http://www.luvision.net/" class="pubbutton">Prof. Lu Fang</a>.    Previously, I received my B.S. degree at the Huazhong University of Science and Technology in 2019.
+I am currently a Researcher at Tencent Hunyuan, working on 3D computer vision and graphics. Prior to this, I obtained my Ph.D. degree from Tsinghua University, where I was supervised by <a href="https://rqhuang88.github.io/" class="pubbutton">Prof. Ruqi Huang</a>. I received my M.S. degree in Computer Vision from University of Michigan. During COVID-19, I had internships as a research assistant at Tsinghua University supervised by <a href="http://www.luvision.net/" class="pubbutton">Prof. Lu Fang</a>. I received my B.S. degree from Huazhong University of Science and Technology in 2019.
 
 ## Research Interests
 
@@ -13,6 +13,7 @@ I’m a third year Ph.D student at Tsinghua university supervised by  <a href="h
 <!-- - **I am looking for an internship, feel free to contact me!** -->
 
 ## News
+- **[Sep. 2025]** One paper was accepted by NeurIPS 2025.
 - **[Feb. 2025]** Two papers were accepted by CVPR 2025.
 - **[Jul. 2024]** One paper was accepted by SIGGRAPH 2024.
 - **[Sep. 2023]** One <a href="https://github.com/rqhuang88/DFR">paper</a> was accepted by NeurIPS 2023.
@@ -26,7 +27,7 @@ I’m a third year Ph.D student at Tsinghua university supervised by  <a href="h
 ## Education
 <ul>
     <li>
-        <div style="float:left; text-align:left">Ph.D. in Tsinghua university</div> <div style="float:right; text-align:right">2021-Present</div>
+        <div style="float:left; text-align:left">Ph.D. in Tsinghua university</div> <div style="float:right; text-align:right">2021-2025</div>
     </li>
     <li>
         <div style="float:left; text-align:left">M.S. in ECE, University of Michigan, Ann Arbor</div> <div style="float:right; text-align:right">2019-2021</div>

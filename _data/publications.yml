@@ -1,4 +1,14 @@
 main:
+  - title: Auto-Connect Connectivity-Preserving RigFormer with Direct Preference Optimization
+    authors: Jingfeng Guo, Jian Liu, Jinnan Chen, Shiwei Mao, Changrong Hu,<strong>Puhua Jiang</strong>, Junlin Yu, Jing Xu, Qi Liu, Lixin Xu, Zhuo Chen, Chunchao Guo
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2506.11430
+    code: https://autoconnectrig.github.io/
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/auto.png
+    notes: Accepted
+
 
   - title: DV-Matcher Deformation-based Non-Rigid Point Cloud Matching Guided by Pre-trained Visual Features
     authors: Zhangquan Chen†,<strong>Puhua Jiang</strong>†, Ruqi Huang
