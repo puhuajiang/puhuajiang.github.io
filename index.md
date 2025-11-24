@@ -13,6 +13,7 @@ I am currently a Researcher at Tencent Hunyuan, working on 3D computer vision an
 <!-- - **I am looking for an internship, feel free to contact me!** -->
 
 ## News
+- **[Nov. 2025]** One paper was accepted by 3DV 2026.
 - **[Sep. 2025]** One paper was accepted by NeurIPS 2025.
 - **[Feb. 2025]** Two papers were accepted by CVPR 2025.
 - **[Jul. 2024]** One paper was accepted by SIGGRAPH 2024.
