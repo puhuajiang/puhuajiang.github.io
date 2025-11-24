@@ -25,6 +25,9 @@ I am currently a Researcher at Tencent Hunyuan, working on 3D computer vision an
 - **[Mar. 2021]**  Serving as the sutdent organizer in  <a href="https://www.gigavision.cn/">Gigavision challange</a>.
 - **[Jul. 2020]** Starting an internship as a computer vision R&amp;D engineer at Baidu.
 
+
+{% include_relative _includes/publications.md %}
+
 ## Education
 <ul>
     <li>
@@ -38,7 +41,5 @@ I am currently a Researcher at Tencent Hunyuan, working on 3D computer vision an
     </li>
 </ul>
 
-
-{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
