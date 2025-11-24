@@ -1,11 +1,30 @@
 main:
 
+  - title: Hunyuan3d studio End-to-end ai pipeline for game-ready 3d asset generation
+    authors: Hunyuan Team
+    conference_short: Arxiv
+    conference: Arxiv
+    pdf: https://arxiv.org/abs/2509.12815
+    # code: https://autoconnectrig.github.io/
+    # bibtex: https://bib.yliu.me/MICCAI23.txt 
+    image: ./assets/img/studio.png
+
+  - title: Hunyuanworld 1.0 Generating immersive, explorable, and interactive 3d worlds from words or pixels
+    authors: Hunyuan Team
+    conference_short: Arxiv
+    conference: Arxiv
+    pdf: https://arxiv.org/pdf/2507.21809
+    code: https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0
+    # bibtex: https://bib.yliu.me/MICCAI23.txt 
+    image: ./assets/img/world.png
+
+
   - title: Improving Multi-View Reconstruction via Texture-Guided Gaussian-Mesh Joint Optimization
     authors: Zhejia Cai†, <strong>Puhua Jiang</strong>†, Shiwei Mao, Hongkun Cao, Ruqi Huang
-    conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2506.11430
-    code: https://autoconnectrig.github.io/
+    conference_short: 3DV
+    conference: International Conference on 3D Vision <strong>(3DV)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2511.03950
+    # code: https://autoconnectrig.github.io/
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/3dv.png
     # notes: Accepted
