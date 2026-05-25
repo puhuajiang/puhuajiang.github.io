@@ -9,7 +9,7 @@ I am currently a Researcher at Tencent Hunyuan, working on 3D computer vision an
 ## Research Interests
 
 - **3D generation and reconstruction:** rendering(Nerf,3D gaussian) and reconstruction, 3D generation
-- **3D Animation：**
+- **3D Animation：** Rigging, skinning and motion.
 - **Geometric (3D) shape analysis :** shape matching, point cloud registration
 <!-- - **I am looking for an internship, feel free to contact me!** -->
 
