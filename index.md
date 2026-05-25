@@ -8,11 +8,14 @@ I am currently a Researcher at Tencent Hunyuan, working on 3D computer vision an
 
 ## Research Interests
 
-- **3D Computer Vision:** rendering(Nerf,3D gaussian) and reconstruction, 3D generation
+- **3D generation and reconstruction:** rendering(Nerf,3D gaussian) and reconstruction, 3D generation
+- **3D Animation：**
 - **Geometric (3D) shape analysis :** shape matching, point cloud registration
 <!-- - **I am looking for an internship, feel free to contact me!** -->
 
 ## News
+- **[May. 2026]** One paper was accepted by SIGGRAPH 2026.
+- **[Nov. 2025]** One paper was accepted by ICLR 2026.
 - **[Nov. 2025]** One paper was accepted by 3DV 2026.
 - **[Sep. 2025]** One paper was accepted by NeurIPS 2025.
 - **[Feb. 2025]** Two papers were accepted by CVPR 2025.
